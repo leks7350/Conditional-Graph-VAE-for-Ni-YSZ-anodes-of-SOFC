@@ -1,4 +1,4 @@
-# Conditional Graph VAE for Ni YSZ anodes of SOFC
+# Conditional Graph VAE для Ni-YSZ структуры анода ТОТЭ (SOFC)
 В рамках данного проекта проводится анализ трехфазной стуктуры анодного слоя (Ni-YSZ) твердооксидного топливного элемента (ТОТЭ, SOFC).
 
 Исходными данными для формирования датасета является данные работы "FIB-tomography data of Ni-YSZ anodes for Solid Oxide Fuel Cells (SOFC): Comparison of pristine and degraded materials (before/after redox cycling)" (Holzer, L., Pecho, O., Hocker, T., Iwanschitz, B., & Mai, A. (2020). FIB-tomography data of Ni-YSZ anodes for Solid Oxide Fuel Cells (SOFC): Comparison of pristine and degraded materials (before/after redox cycling) (Версия 1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4056538)
