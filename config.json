@@ -1,0 +1,19 @@
+{
+  "data_dir": "./anode_graphs/",
+  "save_dir": "./models/",
+  "results_dir": "./results/",
+  "node_dim": 7,
+  "hidden_dim": 256,
+  "latent_dim": 32,
+  "max_nodes": 50,
+  "num_conditions": 6,
+  "batch_size": 8,
+  "epochs": 50,
+  "lr": 0.001,
+  "weight_decay": 1e-05,
+  "kl_weight": 0.0001,
+  "beta_annealing": true,
+  "beta_start": 0.0,
+  "beta_end": 0.001,
+  "beta_anneal_epochs": 20
+}
